@@ -1,0 +1,11 @@
+{
+  "subjectArea" : {
+    "name" : "ttt03",
+    "sourceBusinessModel" : "businessModel:ttt03",
+    "tableOrder" : [ {
+      "name" : "presentationTable:ttt03.CHANNELS"
+    }, {
+      "name" : "presentationTable:ttt03.SALES"
+    } ]
+  }
+}
